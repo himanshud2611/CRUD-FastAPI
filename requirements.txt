@@ -1,0 +1,11 @@
+pydantic
+uvicorn
+fastapi
+sqlalchemy
+pyjwt
+passlib[bcrypt]
+pandas
+requests
+response
+scipy
+pymongo
